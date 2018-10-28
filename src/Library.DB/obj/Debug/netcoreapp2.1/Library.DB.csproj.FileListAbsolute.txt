@@ -1,0 +1,6 @@
+C:\Users\edavi\source\repos\Library\src\Library.DB\bin\Debug\netcoreapp2.1\Library.Data.dll
+C:\Users\edavi\source\repos\Library\src\Library.DB\bin\Debug\netcoreapp2.1\Library.Services.dll
+C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.csprojAssemblyReference.cache
+C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.csproj.CoreCompileInputs.cache
+C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.AssemblyInfoInputs.cache
+C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.AssemblyInfo.cs
