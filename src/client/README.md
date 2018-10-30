@@ -1,0 +1,1 @@
+This is a test repo to explore using a C# API for a React front-end and a PostgreSQL database. Normally I'd go with a task list, but books in a library seemed pretty simple too.
