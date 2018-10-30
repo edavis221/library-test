@@ -9,6 +9,8 @@ namespace Library.DB
 
         Task<IEnumerable<Book>> GetBooksAsync();
 
+        Task<Book> GetBookAsync(int id);
+
         Task<int> InsertBookAsync(Book book);
 
         Task<bool> UpdateBookAsync(Book book);

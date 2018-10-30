@@ -3,7 +3,6 @@ C:\Users\edavi\source\repos\Library\src\Library.Data\bin\Debug\netcoreapp2.1\Lib
 C:\Users\edavi\source\repos\Library\src\Library.Data\obj\Debug\netcoreapp2.1\Library.Data.csproj.CoreCompileInputs.cache
 C:\Users\edavi\source\repos\Library\src\Library.Data\obj\Debug\netcoreapp2.1\Library.Data.AssemblyInfoInputs.cache
 C:\Users\edavi\source\repos\Library\src\Library.Data\obj\Debug\netcoreapp2.1\Library.Data.AssemblyInfo.cs
-C:\Users\edavi\source\repos\Library\src\Library.Data\obj\Debug\netcoreapp2.1\Library.Data.csprojAssemblyReference.cache
 C:\Users\edavi\source\repos\Library\src\Library.Data\bin\Debug\netcoreapp2.1\Library.Data.pdb
 C:\Users\edavi\source\repos\Library\src\Library.Data\obj\Debug\netcoreapp2.1\Library.Data.dll
 C:\Users\edavi\source\repos\Library\src\Library.Data\obj\Debug\netcoreapp2.1\Library.Data.pdb

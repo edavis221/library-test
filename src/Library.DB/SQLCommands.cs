@@ -26,6 +26,15 @@ namespace Library.DB
             }
         }
 
+        public async Task<Book> GetBookAsync(int id)
+        {
+            using (var conn = new SqlConnection(_connectionString))
+            {
+                conn.Open();
+                return await conn.QueryFirstOrDefaultAsync<Book>("SELECT * FROM Book WHERE Id = @Id", new { Id = id });
+            }
+        }
+
         public async Task<int> InsertBookAsync(Book book)
         {
             using (var conn = new SqlConnection(_connectionString))
