@@ -1,6 +1,12 @@
 C:\Users\edavi\source\repos\Library\src\Library.DB\bin\Debug\netcoreapp2.1\Library.Data.dll
-C:\Users\edavi\source\repos\Library\src\Library.DB\bin\Debug\netcoreapp2.1\Library.Services.dll
 C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.csprojAssemblyReference.cache
 C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.csproj.CoreCompileInputs.cache
 C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.AssemblyInfoInputs.cache
 C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.AssemblyInfo.cs
+C:\Users\edavi\source\repos\Library\src\Library.DB\bin\Debug\netcoreapp2.1\Library.DB.deps.json
+C:\Users\edavi\source\repos\Library\src\Library.DB\bin\Debug\netcoreapp2.1\Library.DB.dll
+C:\Users\edavi\source\repos\Library\src\Library.DB\bin\Debug\netcoreapp2.1\Library.DB.pdb
+C:\Users\edavi\source\repos\Library\src\Library.DB\bin\Debug\netcoreapp2.1\Library.Data.pdb
+C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.csproj.CopyComplete
+C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.dll
+C:\Users\edavi\source\repos\Library\src\Library.DB\obj\Debug\netcoreapp2.1\Library.DB.pdb
